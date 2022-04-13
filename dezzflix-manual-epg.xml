@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="m3u4u" generator-info-url="https://m3u4u.com/">
+<channel id="dezzi.me">
+<display-name>Dezzflix Stream</display-name>
+</channel>
+<channel id="dezzi2.me">
+<display-name>Dezzflix Backup Stream</display-name>
+</channel>
+<channel id="barrescue.tv">
+<display-name>24/7 : BAR RESCUE</display-name>
+</channel>
+<channel id="gangland.tv">
+<display-name>24/7 : GANGLAND</display-name>
+</channel>
+<channel id="hardcorepawn.tv">
+<display-name>24/7 : HARDCORE PAWN</display-name>
+</channel>
+<channel id="impracticaljokers.tv">
+<display-name>24/7 : IMPRACTICAL JOKERS</display-name>
+</channel>
+<channel id="kitchennightmares.tv">
+<display-name>24/7 : KITCHEN NIGHTMARES</display-name>
+</channel>
+<channel id="mythbusters.tv">
+<display-name>24/7 : MYTHBUSTERS</display-name>
+</channel>
+<channel id="pawnstars.tv">
+<display-name>24/7 : PAWN STARS</display-name>
+</channel>
+<channel id="ridiculousness.tv">
+<display-name>24/7 : RIDICULOUSNESS</display-name>
+</channel>
+<channel id="sharktank.tv">
+<display-name>24/7 : SHARK TANK</display-name>
+</channel>
+<channel id="topgear.tv">
+<display-name>24/7 : TOP GEAR</display-name>
+</channel>
+
+
+
+
+<programme start="20220409220000 -0400" stop="20221231020000 -0400" channel="dezzi.me">
+<title lang="en" >Dezzflix™ custom stream</title>
+<desc lang="en">Dezzflix™ custom stream</desc>
+</programme>
+
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="barrescue.tv">
+<title lang="en" >24/7 : BAR RESCUE</title>
+<desc lang="en">24/7 : BAR RESCUE</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="gangland.tv">
+<title lang="en" >24/7 : GANGLAND</title>
+<desc lang="en">24/7 : GANGLAND</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="hardcorepawn.tv">
+<title lang="en" >24/7 : HARDCORE PAWN</title>
+<desc lang="en">24/7 : HARDCORE PAWN</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="impracticaljokers.tv">
+<title lang="en" >24/7 : IMPRACTICAL JOKERS</title>
+<desc lang="en">24/7 : IMPRACTICAL JOKERS</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="kitchennightmares.tv">
+<title lang="en" >24/7 : KITCHEN NIGHTMARES</title>
+<desc lang="en">24/7 : KITCHEN NIGHTMARES</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="mythbusters.tv">
+<title lang="en" >24/7 : MYTHBUSTERS</title>
+<desc lang="en">24/7 : MYTHBUSTERS</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="pawnstars.tv">
+<title lang="en" >24/7 : PAWN STARS</title>
+<desc lang="en">24/7 : PAWN STARS</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="ridiculousness.tv">
+<title lang="en" >24/7 : RIDICULOUSNESS</title>
+<desc lang="en">24/7 : RIDICULOUSNESS</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="sharktank.tv">
+<title lang="en" >24/7 : SHARK TANK</title>
+<desc lang="en">24/7 : SHARK TANK</desc>
+</programme>
+<programme start="20220401000000 +0000" stop="20221231000000 +0000" channel="topgear.tv">
+<title lang="en" >24/7 : TOP GEAR</title>
+<desc lang="en">24/7 : TOP GEAR</desc>
+</programme>
+
+
+
+</tv>
